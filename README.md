@@ -3,8 +3,8 @@
 This is an `empty` repository. The purpose is to provide a ticket system
 for the `TheSLinux` projects. All tickets can be found at
 
-* https://theslinux.org/bugs/all _(all open bugs)_
-* https://theslinux.org/bugs/backlog _(the backlog items)_
+* http://theslinux.org/bugs/all _(all open bugs)_
+* http://theslinux.org/bugs/backlog _(the backlog items)_
 
 ## Ticket life-cycle
 
