@@ -11,15 +11,15 @@ for the `TheSLinux` projects. All tickets can be found at
 Each ticket often has a label. There are some important lables
 
 * Important / Not-Important
-* High / Low priority
+* Critical / High or Low priority
 * Backlogs / In progress
 
 Normally, life-cycle of tickets is as below
 
 1. Someone raises new ticket in `Backlogs`
 2. Someone sets `Important` and `Priority` properties for the ticket
-3. Someone picks the ticket and use `In-Progress` label for it.
-    * If the ticket is `Important`, and in `High Priority`,
+3. Someone picks the ticket and uses `In-Progress` label for it.
+    * If the ticket is `Important`, and in `Critical` or `High Priority`,
       it should be picked before any other tickets
     * Some `Important` but `Not-Urgent` ticket may become very critical
       in the future. Please deal with them carefully
